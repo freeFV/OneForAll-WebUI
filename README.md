@@ -12,7 +12,7 @@
 
 ## 过程
 
-1. 克隆仓库到nginx站点目录下，并将nginx虚拟站点配置文件中的站点路径改为public目录（如站点**物理**目录为`/path/to/wwwroot/`，配置文件中的目录为`/path/to/wwwroot/public`）
+1. 克隆仓库到nginx站点目录下，并将nginx虚拟站点配置文件中的站点路径改为public目录（如站点**物理**目录为`/path/to/wwwroot/`，配置文件中的目录则为`/path/to/wwwroot/public`）
 
    `git clone https://github.com/NS-Sp4ce/OneForAll-WebUI.git`
 
@@ -30,3 +30,6 @@
 
 ![data](/img/data.jpg)
 
+# TODO
+- 用GO重构
+- 添加亿点点细节
